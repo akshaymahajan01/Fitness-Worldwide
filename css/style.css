@@ -1,0 +1,146 @@
+*{
+    margin : 0;
+    padding :0;
+    box-sizing: border-box;
+}
+
+.carousel-item img{
+  object-fit: cover;
+  object-position: 50% 40%; 
+  height: 90vh;
+}
+ .fitness{
+     background-color: black;
+     padding:3%;
+ }
+
+ .reasons{
+      background-color:gold;
+      padding:3%;
+ }
+  
+ .reasons img{
+     width: 100%;
+     height: 100%;
+ }
+  .h{
+   width: 90%;          /* this is for hr line */
+   height: 19px;
+   border: none;
+   background-color: white;
+ } 
+
+ .aboutus{
+    background-color: black;
+    padding:5%;
+ }
+
+ .h2{
+      /* this for our 2nd hr line below about us  */
+      width:40%;
+      height:19px;
+      border:none;
+      background-color: white;
+ }
+
+  .aboutus2{
+    background-color: black;
+  }
+
+ .aboutus2 img{
+  width: 100%;
+  height: 100%;
+}
+
+.affilatelink{
+      background-color: black;
+      padding : 5%;
+}
+
+.affilatelink img{
+  width: 100%;
+  height: 90%;
+}
+
+.btnsize{
+       padding:10%;
+}
+
+.lastline{
+  /* it is the last yellow line  */
+  background-color: yellow;
+  padding:1%;
+}
+
+.myintro{
+     background-color: black;
+     padding:2%;
+}
+.myintro img{
+  width:  90%;
+  height: 50%;
+}
+
+
+.footer{
+     background-color:black;
+     padding:5%;
+}
+
+.h3{
+     width:90%;
+     height:7px;
+     border:none;
+     background-color: white;
+}
+
+.insta{
+  margin-right:24px;
+  margin-left:24px;
+  color:aliceblue;
+}
+
+.mail{
+  margin-right:24px;
+  margin-left:24px;
+  color:aliceblue;
+}
+
+
+.link{
+  margin-right:24px;
+  margin-left:24px;
+  color:aliceblue;
+}
+
+.footer img{
+    width:60%;
+    height:60%;
+}
+
+
+
+/* css for excercise page */
+
+
+.first{
+  background-color: gold;
+  padding:3%;
+}
+
+.second{
+  background-color:black;
+  padding:3%;
+}
+
+
+
+.line1{
+  /* it is the last yellow line  */
+  background-color: yellow;
+  padding:2px;
+}
+
+li{
+   color:gold;
+}
