@@ -23,7 +23,7 @@ router.get('/sleep',(req,res)=>{
 
 
 router.get('/affilate',(req,res)=>{
-     res.redirect("https://1c9531yot06u4n1qymr9q9gl9i.hop.clickbank.net")
+     res.redirect("https://8a0ca8roi8zi2nadgrwpw25zir.hop.clickbank.net")
 })
 
 
